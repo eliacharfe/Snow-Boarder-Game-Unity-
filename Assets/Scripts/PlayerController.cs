@@ -6,7 +6,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] float torqueAmount = 1f;
-    [SerializeField] float boostSpeed = 30f;
+    [SerializeField] float boostSpeed = 40f;
     [SerializeField] float baseSpeed = 20f;
     Rigidbody2D rg2d;
     SurfaceEffector2D surfaceEffector2D;

@@ -3,7 +3,9 @@ guid: 65ee5ad0a220eac44b729b52eaf39aa8
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - crashEffect: {instanceID: 0}
+  - crashSFX: {fileID: 8300000, guid: 341910d637a4b5c449bd3e41d9aeb34b, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
